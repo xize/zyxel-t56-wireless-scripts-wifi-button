@@ -1,7 +1,6 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=zyxel-t56-wireless-scripts-wifi-button
-SOURCE_DIR:=/home/xize/openwrt/package/util/zyxel-t56-wireless-scripts-wifi-button
 PKG_SOURCE_DATE:=2022-12-23
 PKG_RELEASE:=1
 
